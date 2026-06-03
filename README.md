@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/0055-jump-game) |
 | [0068-text-justification](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/0068-text-justification) |
 | [0088-merge-sorted-array](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/0088-merge-sorted-array) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/0054-spiral-matrix) |
 | [0068-text-justification](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/0068-text-justification) |
 | [1929-concatenation-of-array](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/1929-concatenation-of-array) |
 ## Greedy
@@ -215,4 +217,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/0036-valid-sudoku) |
+| [0054-spiral-matrix](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
