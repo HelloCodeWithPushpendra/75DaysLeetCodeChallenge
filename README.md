@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/0055-jump-game) |
 | [0068-text-justification](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/0068-text-justification) |
+| [0073-set-matrix-zeroes](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0135-candy](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/0135-candy) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/0076-minimum-window-substring) |
 | [0217-contains-duplicate](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/0073-set-matrix-zeroes) |
 ## Backtracking
 |  |
 | ------- |
