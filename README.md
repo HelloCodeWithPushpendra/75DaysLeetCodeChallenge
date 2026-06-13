@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/0380-insert-delete-getrandom-o1) |
+| [0383-ransom-note](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Sorting
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
+| [0383-ransom-note](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/0392-is-subsequence) |
 | [0424-longest-repeating-character-replacement](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
 ## Divide and Conquer
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/0383-ransom-note) |
 ## Quickselect
 |  |
 | ------- |
