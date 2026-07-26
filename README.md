@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0135-candy](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/0135-candy) |
+| [0136-single-number](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/0189-rotate-array) |
@@ -240,4 +241,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/0051-n-queens) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
