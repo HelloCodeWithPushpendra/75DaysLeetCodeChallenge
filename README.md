@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1929-concatenation-of-array](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Sorting
 |  |
 | ------- |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -225,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/0274-h-index) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Randomized
 |  |
 | ------- |
