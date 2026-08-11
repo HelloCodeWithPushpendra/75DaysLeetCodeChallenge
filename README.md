@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/0056-merge-intervals) |
 | [0068-text-justification](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/0075-sort-colors) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
@@ -270,4 +272,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/0229-majority-element-ii) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
