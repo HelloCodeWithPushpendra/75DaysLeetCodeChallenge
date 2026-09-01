@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/0036-valid-sudoku) |
+| [0045-jump-game-ii](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/0051-n-queens) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/0118-pascals-triangle) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/0135-candy) |
 ## Sliding Window
