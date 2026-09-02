@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/0503-next-greater-element-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
+| [0735-asteroid-collision](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/0054-spiral-matrix) |
 | [0068-text-justification](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/0068-text-justification) |
 | [0289-game-of-life](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/0289-game-of-life) |
+| [0735-asteroid-collision](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/0735-asteroid-collision) |
 | [1929-concatenation-of-array](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Greedy
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/0503-next-greater-element-ii) |
+| [0735-asteroid-collision](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
 ## Design
 |  |
