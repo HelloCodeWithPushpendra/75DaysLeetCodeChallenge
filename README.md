@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/0075-sort-colors) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/0088-merge-sorted-array) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/0035-search-insert-position) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/0209-minimum-size-subarray-sum) |
 | [0704-binary-search](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
