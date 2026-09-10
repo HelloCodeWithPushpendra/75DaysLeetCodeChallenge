@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/0503-next-greater-element-ii) |
+| [0540-single-element-in-a-sorted-array](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/0540-single-element-in-a-sorted-array) |
 | [0643-maximum-average-subarray-i](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/0735-asteroid-collision) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/0209-minimum-size-subarray-sum) |
+| [0540-single-element-in-a-sorted-array](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
 ## String
 |  |
