@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/0239-sliding-window-maximum) |
+| [0240-search-a-2d-matrix-ii](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/0240-search-a-2d-matrix-ii) |
 | [0274-h-index](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/0283-move-zeroes) |
 | [0289-game-of-life](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/0289-game-of-life) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/0209-minimum-size-subarray-sum) |
+| [0240-search-a-2d-matrix-ii](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/0053-maximum-subarray) |
+| [0240-search-a-2d-matrix-ii](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 ## Dynamic Programming
 |  |
@@ -318,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/0085-maximal-rectangle) |
+| [0240-search-a-2d-matrix-ii](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/0240-search-a-2d-matrix-ii) |
 | [0289-game-of-life](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/0289-game-of-life) |
 ## Backtracking
 |  |
