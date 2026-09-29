@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/0283-move-zeroes) |
 | [0289-game-of-life](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/0289-game-of-life) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/0380-insert-delete-getrandom-o1) |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -120,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/0240-search-a-2d-matrix-ii) |
+| [0268-missing-number](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/0268-missing-number) |
 | [0410-split-array-largest-sum](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
@@ -284,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/0048-rotate-image) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/0380-insert-delete-getrandom-o1) |
 ## Monotonic Stack
 |  |
@@ -342,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/0268-missing-number) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
