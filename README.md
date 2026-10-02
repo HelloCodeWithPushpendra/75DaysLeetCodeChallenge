@@ -357,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/0075-sort-colors) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
@@ -370,4 +371,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/0901-online-stock-span) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/imjadonpushpendra/75DaysLeetCodeChallenge/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
